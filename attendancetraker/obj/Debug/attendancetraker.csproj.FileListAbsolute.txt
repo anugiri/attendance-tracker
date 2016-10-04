@@ -1,0 +1,11 @@
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\bin\Debug\attendancetraker.exe.config
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\bin\Debug\attendancetraker.exe
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\bin\Debug\attendancetraker.pdb
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.csprojResolveAssemblyReference.cache
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.Form1.resources
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.Properties.Resources.resources
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.csproj.GenerateResource.Cache
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.exe
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.pdb
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.Form2.resources
+C:\Users\lec\Desktop\project\attendancetraker\attendancetraker\obj\Debug\attendancetraker.Form3.resources
